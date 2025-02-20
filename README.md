@@ -2,7 +2,7 @@
 
 **To Pull**: docker pull 7usney1802/securityinfra:latest
 
-**to run the container after pulling**: docker run -d -p 8080:8080 --name securityinfra_final -e LOG_FILE_DIR=/home/tdt/logs securityinfra_fixed:latest
+**to run the container after pulling**: docker run -d -p 8080:8080 --name securityinfra_final -e LOG_FILE_DIR=/home/tdt/logs securityinfra_fixed:latest    IN CMD 
 
 A Word document is attached, including detailed description
 
